@@ -1,9 +1,8 @@
-high elo vlr - diamante1
+high elo vlr - asc
 global cs go 
-lvl 18 gc
+lvl 19 gc
 mestre ff
 elite fortnite
-15k trofeus bs
 3anos de fivem
 
 
